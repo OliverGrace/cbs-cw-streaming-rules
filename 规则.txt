@@ -28,6 +28,7 @@
 - DOMAIN-SUFFIX,ad.doubleclick.net,Proxy
 - DOMAIN-SUFFIX,cds.taboola.com,Proxy
 - DOMAIN-SUFFIX,cbsivideo.com,Proxy
+##新增cw规则
 - DOMAIN-SUFFIX,cwtv.com,Proxy
 - DOMAIN-SUFFIX,geolocation.onetrust.com,Proxy
 - DOMAIN-SUFFIX,cwtv-amd-akamai.akamaized.net,Proxy
